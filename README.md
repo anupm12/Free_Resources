@@ -11,4 +11,5 @@
      * https://material.io/resources/icons/
   5. Font awesome
      * https://fontawesome.com/
-  
+  6. ionicons
+     * https://ionicons.com/
